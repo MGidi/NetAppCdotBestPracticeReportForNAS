@@ -36,4 +36,4 @@ The Volume snapshot reserve is set to too higher than the current snapshot usage
 
 SVM root volume don’t have copies on all nodes
 
-SnapMirrored Volumes that don’t have healthy copies on DR BK and RB SVMs
+SnapMirrored Volumes that don’t have healthy copies on four SVMs
